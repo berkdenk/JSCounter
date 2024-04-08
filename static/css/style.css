@@ -1,0 +1,45 @@
+/* style.css */
+
+.container {
+    text-align: center;
+    margin-top: 50px;
+}
+
+h1 {
+    font-size: 36px;
+    margin-bottom: 20px;
+}
+
+#value {
+    font-size: 48px;
+    font-weight: bold;
+    color: #333;
+}
+
+.button-container {
+    margin-top: 20px;
+}
+
+.btn {
+    padding: 10px 20px;
+    font-size: 18px;
+    margin: 0 10px;
+    border: none;
+    cursor: pointer;
+    border-radius: 5px;
+}
+
+.decrease {
+    background-color: #FF5733;
+    color: #fff;
+}
+
+.reset {
+    background-color: #3498DB;
+    color: #fff;
+}
+
+.increase {
+    background-color: #27AE60;
+    color: #fff;
+}
